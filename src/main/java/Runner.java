@@ -4,7 +4,11 @@ public class Runner {
        //version 1
         System.out.println("değişiklik 1");
 
+        //version 2
+        System.out.println("değişiklik yaptım");
 
+        // version 3
+        System.out.println("yeni değişiklik");
 
     }
 }
