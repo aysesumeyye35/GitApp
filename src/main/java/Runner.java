@@ -13,6 +13,8 @@ public class Runner {
         System.out.println("bazı kodlar");
         // versiyon 5
         System.out.println("bazı kodlar");
+        // versiyon 6
+        System.out.println("bazı kodlar");
 
 
 
