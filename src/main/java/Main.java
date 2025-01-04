@@ -7,5 +7,10 @@ public class Main {
 
         // version 3
         System.out.println("yeni değişiklik");
+
+
+
+
+
     }
 }
