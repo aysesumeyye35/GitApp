@@ -19,6 +19,7 @@ public class Runner {
         // yeni kodlar ekledim
         //versiyon 7
 
+        // githubda değişiklik yaptım
 
 
 
